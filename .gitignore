@@ -1,0 +1,21 @@
+# Mac crap
+.DS_Store
+
+# idea files
+.idea
+
+*.py[co]
+
+# Translations
+*.mo
+
+db.sqlite3
+
+media/
+
+tornado_chat/local_settings.py
+local_settings.py
+
+/static/
+
+/locale

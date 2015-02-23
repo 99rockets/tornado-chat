@@ -1,0 +1,7 @@
+psycopg2==2.6
+django==1.7.4
+django-redis-sessions==0.4.0
+redis
+pytz
+tornado==4.1
+git+https://github.com/evilkost/brukva.git
